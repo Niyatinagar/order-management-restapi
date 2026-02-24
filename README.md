@@ -198,8 +198,7 @@ This project reflects my ability to build scalable backend systems suitable for 
 ## 📬 Contact
 
 **Niyati Nagar**  
-GitHub: https://github.com/YOUR_USERNAME  
-
+GitHub: https://github.com/Niyatinagar 
 ---
 
 ⭐ If you found this project helpful, feel free to star it!
